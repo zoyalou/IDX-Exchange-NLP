@@ -1,0 +1,7 @@
+{
+  "queries": [
+    {"query": "3 bed 2 bath under 700k in Irvine", "intent": "high_intent_inquiry"},
+    {"query": "homes with pools in Irvine", "intent": "browsing"},
+    {"query": "condos near UC Irvine with low HOA", "intent": "researching"}
+  ]
+}

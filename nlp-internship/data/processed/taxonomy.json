@@ -1,0 +1,1389 @@
+{
+  "terms": [
+    {
+      "id": "t0001",
+      "term": "condo",
+      "category": "property_type"
+    },
+    {
+      "id": "t0002",
+      "term": "single family",
+      "category": "property_type"
+    },
+    {
+      "id": "t0003",
+      "term": "townhouse",
+      "category": "property_type"
+    },
+    {
+      "id": "t0004",
+      "term": "duplex",
+      "category": "property_type"
+    },
+    {
+      "id": "t0005",
+      "term": "ranch",
+      "category": "property_type"
+    },
+    {
+      "id": "t0006",
+      "term": "pool",
+      "category": "amenities"
+    },
+    {
+      "id": "t0007",
+      "term": "fireplace",
+      "category": "amenities"
+    },
+    {
+      "id": "t0008",
+      "term": "garage",
+      "category": "amenities"
+    },
+    {
+      "id": "t0009",
+      "term": "hardwood floors",
+      "category": "amenities"
+    },
+    {
+      "id": "t0010",
+      "term": "granite counters",
+      "category": "amenities"
+    },
+    {
+      "id": "t0011",
+      "term": "updated",
+      "category": "condition"
+    },
+    {
+      "id": "t0012",
+      "term": "renovated",
+      "category": "condition"
+    },
+    {
+      "id": "t0013",
+      "term": "move in ready",
+      "category": "condition"
+    },
+    {
+      "id": "t0014",
+      "term": "fixer upper",
+      "category": "condition"
+    },
+    {
+      "id": "t0015",
+      "term": "new construction",
+      "category": "condition"
+    },
+    {
+      "id": "t0016",
+      "term": "cul de sac",
+      "category": "location"
+    },
+    {
+      "id": "t0017",
+      "term": "corner lot",
+      "category": "location"
+    },
+    {
+      "id": "t0018",
+      "term": "gated community",
+      "category": "location"
+    },
+    {
+      "id": "t0019",
+      "term": "walk to",
+      "category": "location"
+    },
+    {
+      "id": "t0020",
+      "term": "near",
+      "category": "location"
+    },
+    {
+      "id": "t0021",
+      "term": "seller financing",
+      "category": "financing"
+    },
+    {
+      "id": "t0022",
+      "term": "assumable loan",
+      "category": "financing"
+    },
+    {
+      "id": "t0023",
+      "term": "no hoa",
+      "category": "financing"
+    },
+    {
+      "id": "t0024",
+      "term": "low hoa",
+      "category": "financing"
+    },
+    {
+      "id": "t0025",
+      "term": "open floor plan",
+      "category": "size_layout"
+    },
+    {
+      "id": "t0026",
+      "term": "master suite",
+      "category": "size_layout"
+    },
+    {
+      "id": "t0027",
+      "term": "vaulted ceilings",
+      "category": "size_layout"
+    },
+    {
+      "id": "t0028",
+      "term": "bonus room",
+      "category": "size_layout"
+    },
+    {
+      "id": "t0029",
+      "term": "backyard",
+      "category": "outdoor"
+    },
+    {
+      "id": "t0030",
+      "term": "patio",
+      "category": "outdoor"
+    },
+    {
+      "id": "t0031",
+      "term": "deck",
+      "category": "outdoor"
+    },
+    {
+      "id": "t0032",
+      "term": "landscaped",
+      "category": "outdoor"
+    },
+    {
+      "id": "t0033",
+      "term": "mountain view",
+      "category": "outdoor"
+    },
+    {
+      "id": "t0034",
+      "term": "priced to sell",
+      "category": "urgency_marketing"
+    },
+    {
+      "id": "t0035",
+      "term": "must see",
+      "category": "urgency_marketing"
+    },
+    {
+      "id": "t0036",
+      "term": "won't last",
+      "category": "urgency_marketing"
+    },
+    {
+      "id": "t0037",
+      "term": "motivated seller",
+      "category": "urgency_marketing"
+    },
+    {
+      "id": "t0038",
+      "term": ", and",
+      "category": "uncategorized",
+      "count": 3393
+    },
+    {
+      "id": "t0039",
+      "term": ". the",
+      "category": "uncategorized",
+      "count": 1817
+    },
+    {
+      "id": "t0040",
+      "term": "and a",
+      "category": "uncategorized",
+      "count": 1064
+    },
+    {
+      "id": "t0041",
+      "term": ", this",
+      "category": "uncategorized",
+      "count": 859
+    },
+    {
+      "id": "t0042",
+      "term": ", a",
+      "category": "uncategorized",
+      "count": 775
+    },
+    {
+      "id": "t0043",
+      "term": "in the",
+      "category": "uncategorized",
+      "count": 737
+    },
+    {
+      "id": "t0044",
+      "term": "with a",
+      "category": "uncategorized",
+      "count": 695
+    },
+    {
+      "id": "t0045",
+      "term": "to the",
+      "category": "uncategorized",
+      "count": 630
+    },
+    {
+      "id": "t0046",
+      "term": ", the",
+      "category": "uncategorized",
+      "count": 621
+    },
+    {
+      "id": "t0047",
+      "term": ". this",
+      "category": "uncategorized",
+      "count": 601
+    },
+    {
+      "id": "t0048",
+      "term": "of the",
+      "category": "uncategorized",
+      "count": 583
+    },
+    {
+      "id": "t0049",
+      "term": "the home",
+      "category": "uncategorized",
+      "count": 575
+    },
+    {
+      "id": "t0050",
+      "term": ", or",
+      "category": "uncategorized",
+      "count": 559
+    },
+    {
+      "id": "t0051",
+      "term": ". a",
+      "category": "uncategorized",
+      "count": 448
+    },
+    {
+      "id": "t0052",
+      "term": "access to",
+      "category": "uncategorized",
+      "count": 382
+    },
+    {
+      "id": "t0053",
+      "term": "is a",
+      "category": "uncategorized",
+      "count": 370
+    },
+    {
+      "id": "t0054",
+      "term": "a private",
+      "category": "uncategorized",
+      "count": 368
+    },
+    {
+      "id": "t0055",
+      "term": "this home",
+      "category": "uncategorized",
+      "count": 359
+    },
+    {
+      "id": "t0056",
+      "term": "\u2019 s",
+      "category": "uncategorized",
+      "count": 347
+    },
+    {
+      "id": "t0057",
+      "term": "primary suite",
+      "category": "uncategorized",
+      "count": 323
+    },
+    {
+      "id": "t0058",
+      "term": "room ,",
+      "category": "uncategorized",
+      "count": 316
+    },
+    {
+      "id": "t0059",
+      "term": "one of",
+      "category": "uncategorized",
+      "count": 315
+    },
+    {
+      "id": "t0060",
+      "term": "living room",
+      "category": "uncategorized",
+      "count": 296
+    },
+    {
+      "id": "t0061",
+      "term": "perfect for",
+      "category": "uncategorized",
+      "count": 285
+    },
+    {
+      "id": "t0062",
+      "term": "natural light",
+      "category": "uncategorized",
+      "count": 285
+    },
+    {
+      "id": "t0063",
+      "term": "shopping ,",
+      "category": "uncategorized",
+      "count": 283
+    },
+    {
+      "id": "t0064",
+      "term": "dining ,",
+      "category": "uncategorized",
+      "count": 281
+    },
+    {
+      "id": "t0065",
+      "term": "home offers",
+      "category": "uncategorized",
+      "count": 280
+    },
+    {
+      "id": "t0066",
+      "term": "and the",
+      "category": "uncategorized",
+      "count": 271
+    },
+    {
+      "id": "t0067",
+      "term": "from the",
+      "category": "uncategorized",
+      "count": 270
+    },
+    {
+      "id": "t0068",
+      "term": "floor plan",
+      "category": "uncategorized",
+      "count": 267
+    },
+    {
+      "id": "t0069",
+      "term": "a large",
+      "category": "uncategorized",
+      "count": 267
+    },
+    {
+      "id": "t0070",
+      "term": "ideal for",
+      "category": "uncategorized",
+      "count": 266
+    },
+    {
+      "id": "t0071",
+      "term": "welcome to",
+      "category": "uncategorized",
+      "count": 261
+    },
+    {
+      "id": "t0072",
+      "term": "to a",
+      "category": "uncategorized",
+      "count": 260
+    },
+    {
+      "id": "t0073",
+      "term": "space ,",
+      "category": "uncategorized",
+      "count": 259
+    },
+    {
+      "id": "t0074",
+      "term": "offers a",
+      "category": "uncategorized",
+      "count": 258
+    },
+    {
+      "id": "t0075",
+      "term": "and an",
+      "category": "uncategorized",
+      "count": 257
+    },
+    {
+      "id": "t0076",
+      "term": "on a",
+      "category": "uncategorized",
+      "count": 251
+    },
+    {
+      "id": "t0077",
+      "term": "living and",
+      "category": "uncategorized",
+      "count": 251
+    },
+    {
+      "id": "t0078",
+      "term": "a spacious",
+      "category": "uncategorized",
+      "count": 246
+    },
+    {
+      "id": "t0079",
+      "term": "living space",
+      "category": "uncategorized",
+      "count": 244
+    },
+    {
+      "id": "t0080",
+      "term": "the kitchen",
+      "category": "uncategorized",
+      "count": 237
+    },
+    {
+      "id": "t0081",
+      "term": "living .",
+      "category": "uncategorized",
+      "count": 237
+    },
+    {
+      "id": "t0082",
+      "term": "opportunity to",
+      "category": "uncategorized",
+      "count": 235
+    },
+    {
+      "id": "t0083",
+      "term": "the property",
+      "category": "uncategorized",
+      "count": 235
+    },
+    {
+      "id": "t0084",
+      "term": "in a",
+      "category": "uncategorized",
+      "count": 234
+    },
+    {
+      "id": "t0085",
+      "term": ", while",
+      "category": "uncategorized",
+      "count": 231
+    },
+    {
+      "id": "t0086",
+      "term": ", dining",
+      "category": "uncategorized",
+      "count": 229
+    },
+    {
+      "id": "t0087",
+      "term": "for a",
+      "category": "uncategorized",
+      "count": 219
+    },
+    {
+      "id": "t0088",
+      "term": "a rare",
+      "category": "uncategorized",
+      "count": 216
+    },
+    {
+      "id": "t0089",
+      "term": "area ,",
+      "category": "uncategorized",
+      "count": 214
+    },
+    {
+      "id": "t0090",
+      "term": "appliances ,",
+      "category": "uncategorized",
+      "count": 213
+    },
+    {
+      "id": "t0091",
+      "term": "home is",
+      "category": "uncategorized",
+      "count": 213
+    },
+    {
+      "id": "t0092",
+      "term": "countertops ,",
+      "category": "uncategorized",
+      "count": 211
+    },
+    {
+      "id": "t0093",
+      "term": "entertaining .",
+      "category": "uncategorized",
+      "count": 207
+    },
+    {
+      "id": "t0094",
+      "term": "comfort ,",
+      "category": "uncategorized",
+      "count": 204
+    },
+    {
+      "id": "t0095",
+      "term": "features a",
+      "category": "uncategorized",
+      "count": 204
+    },
+    {
+      "id": "t0096",
+      "term": "heart of",
+      "category": "uncategorized",
+      "count": 204
+    },
+    {
+      "id": "t0097",
+      "term": ", with",
+      "category": "uncategorized",
+      "count": 203
+    },
+    {
+      "id": "t0098",
+      "term": ", creating",
+      "category": "uncategorized",
+      "count": 202
+    },
+    {
+      "id": "t0099",
+      "term": "the perfect",
+      "category": "uncategorized",
+      "count": 201
+    },
+    {
+      "id": "t0100",
+      "term": ". additional",
+      "category": "uncategorized",
+      "count": 199
+    },
+    {
+      "id": "t0101",
+      "term": "the heart",
+      "category": "uncategorized",
+      "count": 198
+    },
+    {
+      "id": "t0102",
+      "term": ", including",
+      "category": "uncategorized",
+      "count": 198
+    },
+    {
+      "id": "t0103",
+      "term": "on the",
+      "category": "uncategorized",
+      "count": 197
+    },
+    {
+      "id": "t0104",
+      "term": "in one",
+      "category": "uncategorized",
+      "count": 193
+    },
+    {
+      "id": "t0105",
+      "term": "pool ,",
+      "category": "uncategorized",
+      "count": 191
+    },
+    {
+      "id": "t0106",
+      "term": "located in",
+      "category": "uncategorized",
+      "count": 191
+    },
+    {
+      "id": "t0107",
+      "term": ". enjoy",
+      "category": "uncategorized",
+      "count": 191
+    },
+    {
+      "id": "t0108",
+      "term": "flooring ,",
+      "category": "uncategorized",
+      "count": 189
+    },
+    {
+      "id": "t0109",
+      "term": "bedrooms ,",
+      "category": "uncategorized",
+      "count": 189
+    },
+    {
+      "id": "t0110",
+      "term": "walk-in closet",
+      "category": "uncategorized",
+      "count": 188
+    },
+    {
+      "id": "t0111",
+      "term": "designed for",
+      "category": "uncategorized",
+      "count": 188
+    },
+    {
+      "id": "t0112",
+      "term": "as a",
+      "category": "uncategorized",
+      "count": 187
+    },
+    {
+      "id": "t0113",
+      "term": "the main",
+      "category": "uncategorized",
+      "count": 184
+    },
+    {
+      "id": "t0114",
+      "term": ". step",
+      "category": "uncategorized",
+      "count": 182
+    },
+    {
+      "id": "t0115",
+      "term": "everyday living",
+      "category": "uncategorized",
+      "count": 180
+    },
+    {
+      "id": "t0116",
+      "term": ". welcome",
+      "category": "uncategorized",
+      "count": 179
+    },
+    {
+      "id": "t0117",
+      "term": ", offering",
+      "category": "uncategorized",
+      "count": 178
+    },
+    {
+      "id": "t0118",
+      "term": "this is",
+      "category": "uncategorized",
+      "count": 177
+    },
+    {
+      "id": "t0119",
+      "term": "space .",
+      "category": "uncategorized",
+      "count": 176
+    },
+    {
+      "id": "t0120",
+      "term": "bedrooms and",
+      "category": "uncategorized",
+      "count": 176
+    },
+    {
+      "id": "t0121",
+      "term": "stainless steel",
+      "category": "uncategorized",
+      "count": 175
+    },
+    {
+      "id": "t0122",
+      "term": "cabinetry ,",
+      "category": "uncategorized",
+      "count": 175
+    },
+    {
+      "id": "t0123",
+      "term": "the living",
+      "category": "uncategorized",
+      "count": 172
+    },
+    {
+      "id": "t0124",
+      "term": "the primary",
+      "category": "uncategorized",
+      "count": 171
+    },
+    {
+      "id": "t0125",
+      "term": "schools ,",
+      "category": "uncategorized",
+      "count": 170
+    },
+    {
+      "id": "t0126",
+      "term": ", you",
+      "category": "uncategorized",
+      "count": 169
+    },
+    {
+      "id": "t0127",
+      "term": ", shopping",
+      "category": "uncategorized",
+      "count": 169
+    },
+    {
+      "id": "t0128",
+      "term": "and entertaining",
+      "category": "uncategorized",
+      "count": 168
+    },
+    {
+      "id": "t0129",
+      "term": "complete with",
+      "category": "uncategorized",
+      "count": 167
+    },
+    {
+      "id": "t0130",
+      "term": "the spacious",
+      "category": "uncategorized",
+      "count": 166
+    },
+    {
+      "id": "t0131",
+      "term": "dining area",
+      "category": "uncategorized",
+      "count": 165
+    },
+    {
+      "id": "t0132",
+      "term": "for both",
+      "category": "uncategorized",
+      "count": 165
+    },
+    {
+      "id": "t0133",
+      "term": ". located",
+      "category": "uncategorized",
+      "count": 165
+    },
+    {
+      "id": "t0134",
+      "term": "room with",
+      "category": "uncategorized",
+      "count": 159
+    },
+    {
+      "id": "t0135",
+      "term": "to own",
+      "category": "uncategorized",
+      "count": 159
+    },
+    {
+      "id": "t0136",
+      "term": "a home",
+      "category": "uncategorized",
+      "count": 158
+    },
+    {
+      "id": "t0137",
+      "term": "this property",
+      "category": "uncategorized",
+      "count": 157
+    },
+    {
+      "id": "t0138",
+      "term": "throughout .",
+      "category": "uncategorized",
+      "count": 156
+    },
+    {
+      "id": "t0139",
+      "term": "includes a",
+      "category": "uncategorized",
+      "count": 155
+    },
+    {
+      "id": "t0140",
+      "term": "including a",
+      "category": "uncategorized",
+      "count": 155
+    },
+    {
+      "id": "t0141",
+      "term": "bathrooms ,",
+      "category": "uncategorized",
+      "count": 153
+    },
+    {
+      "id": "t0142",
+      "term": "ceilings ,",
+      "category": "uncategorized",
+      "count": 151
+    },
+    {
+      "id": "t0143",
+      "term": "located near",
+      "category": "uncategorized",
+      "count": 151
+    },
+    {
+      "id": "t0144",
+      "term": "parks ,",
+      "category": "uncategorized",
+      "count": 151
+    },
+    {
+      "id": "t0145",
+      "term": "and dining",
+      "category": "uncategorized",
+      "count": 149
+    },
+    {
+      "id": "t0146",
+      "term": "living ,",
+      "category": "uncategorized",
+      "count": 149
+    },
+    {
+      "id": "t0147",
+      "term": ", new",
+      "category": "uncategorized",
+      "count": 148
+    },
+    {
+      "id": "t0148",
+      "term": "fireplace ,",
+      "category": "uncategorized",
+      "count": 148
+    },
+    {
+      "id": "t0149",
+      "term": "space for",
+      "category": "uncategorized",
+      "count": 147
+    },
+    {
+      "id": "t0150",
+      "term": "kitchen ,",
+      "category": "uncategorized",
+      "count": 147
+    },
+    {
+      "id": "t0151",
+      "term": "blend of",
+      "category": "uncategorized",
+      "count": 146
+    },
+    {
+      "id": "t0152",
+      "term": "minutes from",
+      "category": "uncategorized",
+      "count": 146
+    },
+    {
+      "id": "t0153",
+      "term": "steel appliances",
+      "category": "uncategorized",
+      "count": 146
+    },
+    {
+      "id": "t0154",
+      "term": "office ,",
+      "category": "uncategorized",
+      "count": 145
+    },
+    {
+      "id": "t0155",
+      "term": "entertaining ,",
+      "category": "uncategorized",
+      "count": 144
+    },
+    {
+      "id": "t0156",
+      "term": "home office",
+      "category": "uncategorized",
+      "count": 143
+    },
+    {
+      "id": "t0157",
+      "term": ", an",
+      "category": "uncategorized",
+      "count": 143
+    },
+    {
+      "id": "t0158",
+      "term": "for entertaining",
+      "category": "uncategorized",
+      "count": 142
+    },
+    {
+      "id": "t0159",
+      "term": "conveniently located",
+      "category": "uncategorized",
+      "count": 141
+    },
+    {
+      "id": "t0160",
+      "term": "easy access",
+      "category": "uncategorized",
+      "count": 140
+    },
+    {
+      "id": "t0161",
+      "term": "plenty of",
+      "category": "uncategorized",
+      "count": 138
+    },
+    {
+      "id": "t0162",
+      "term": "home .",
+      "category": "uncategorized",
+      "count": 136
+    },
+    {
+      "id": "t0163",
+      "term": "family room",
+      "category": "uncategorized",
+      "count": 136
+    },
+    {
+      "id": "t0164",
+      "term": "offers the",
+      "category": "uncategorized",
+      "count": 136
+    },
+    {
+      "id": "t0165",
+      "term": "creating a",
+      "category": "uncategorized",
+      "count": 134
+    },
+    {
+      "id": "t0166",
+      "term": "lighting ,",
+      "category": "uncategorized",
+      "count": 133
+    },
+    {
+      "id": "t0167",
+      "term": "into the",
+      "category": "uncategorized",
+      "count": 133
+    },
+    {
+      "id": "t0168",
+      "term": "just minutes",
+      "category": "uncategorized",
+      "count": 132
+    },
+    {
+      "id": "t0169",
+      "term": "close to",
+      "category": "uncategorized",
+      "count": 131
+    },
+    {
+      "id": "t0170",
+      "term": "sq ft",
+      "category": "uncategorized",
+      "count": 131
+    },
+    {
+      "id": "t0171",
+      "term": "while the",
+      "category": "uncategorized",
+      "count": 130
+    },
+    {
+      "id": "t0172",
+      "term": "has been",
+      "category": "uncategorized",
+      "count": 129
+    },
+    {
+      "id": "t0173",
+      "term": "featuring a",
+      "category": "uncategorized",
+      "count": 128
+    },
+    {
+      "id": "t0174",
+      "term": "the backyard",
+      "category": "uncategorized",
+      "count": 128
+    },
+    {
+      "id": "t0175",
+      "term": ", featuring",
+      "category": "uncategorized",
+      "count": 128
+    },
+    {
+      "id": "t0176",
+      "term": "home in",
+      "category": "uncategorized",
+      "count": 128
+    },
+    {
+      "id": "t0177",
+      "term": "this beautifully",
+      "category": "uncategorized",
+      "count": 127
+    },
+    {
+      "id": "t0178",
+      "term": "home ,",
+      "category": "uncategorized",
+      "count": 127
+    },
+    {
+      "id": "t0179",
+      "term": "enjoy the",
+      "category": "uncategorized",
+      "count": 127
+    },
+    {
+      "id": "t0180",
+      "term": "at the",
+      "category": "uncategorized",
+      "count": 126
+    },
+    {
+      "id": "t0181",
+      "term": "home features",
+      "category": "uncategorized",
+      "count": 126
+    },
+    {
+      "id": "t0182",
+      "term": "you \u2019",
+      "category": "uncategorized",
+      "count": 125
+    },
+    {
+      "id": "t0183",
+      "term": "laundry room",
+      "category": "uncategorized",
+      "count": 123
+    },
+    {
+      "id": "t0184",
+      "term": "throughout ,",
+      "category": "uncategorized",
+      "count": 122
+    },
+    {
+      "id": "t0185",
+      "term": "with an",
+      "category": "uncategorized",
+      "count": 121
+    },
+    {
+      "id": "t0186",
+      "term": "views ,",
+      "category": "uncategorized",
+      "count": 120
+    },
+    {
+      "id": "t0187",
+      "term": "its own",
+      "category": "uncategorized",
+      "count": 120
+    },
+    {
+      "id": "t0188",
+      "term": "include a",
+      "category": "uncategorized",
+      "count": 119
+    },
+    {
+      "id": "t0189",
+      "term": "rare opportunity",
+      "category": "uncategorized",
+      "count": 119
+    },
+    {
+      "id": "t0190",
+      "term": "or a",
+      "category": "uncategorized",
+      "count": 118
+    },
+    {
+      "id": "t0191",
+      "term": "thoughtfully designed",
+      "category": "uncategorized",
+      "count": 118
+    },
+    {
+      "id": "t0192",
+      "term": ". upstairs",
+      "category": "uncategorized",
+      "count": 118
+    },
+    {
+      "id": "t0193",
+      "term": "privacy ,",
+      "category": "uncategorized",
+      "count": 118
+    },
+    {
+      "id": "t0194",
+      "term": "throughout the",
+      "category": "uncategorized",
+      "count": 117
+    },
+    {
+      "id": "t0195",
+      "term": "along with",
+      "category": "uncategorized",
+      "count": 117
+    },
+    {
+      "id": "t0196",
+      "term": "by a",
+      "category": "uncategorized",
+      "count": 117
+    },
+    {
+      "id": "t0197",
+      "term": "kitchen with",
+      "category": "uncategorized",
+      "count": 116
+    },
+    {
+      "id": "t0198",
+      "term": "spa ,",
+      "category": "uncategorized",
+      "count": 115
+    },
+    {
+      "id": "t0199",
+      "term": "! this",
+      "category": "uncategorized",
+      "count": 113
+    },
+    {
+      "id": "t0200",
+      "term": "square feet",
+      "category": "uncategorized",
+      "count": 113
+    },
+    {
+      "id": "t0201",
+      "term": ". with",
+      "category": "uncategorized",
+      "count": 112
+    },
+    {
+      "id": "t0202",
+      "term": "a cozy",
+      "category": "uncategorized",
+      "count": 112
+    },
+    {
+      "id": "t0203",
+      "term": "own a",
+      "category": "uncategorized",
+      "count": 111
+    },
+    {
+      "id": "t0204",
+      "term": ". whether",
+      "category": "uncategorized",
+      "count": 111
+    },
+    {
+      "id": "t0205",
+      "term": "to this",
+      "category": "uncategorized",
+      "count": 110
+    },
+    {
+      "id": "t0206",
+      "term": "quartz countertops",
+      "category": "uncategorized",
+      "count": 110
+    },
+    {
+      "id": "t0207",
+      "term": "a true",
+      "category": "uncategorized",
+      "count": 109
+    },
+    {
+      "id": "t0208",
+      "term": "light ,",
+      "category": "uncategorized",
+      "count": 109
+    },
+    {
+      "id": "t0209",
+      "term": ", perfect",
+      "category": "uncategorized",
+      "count": 108
+    },
+    {
+      "id": "t0210",
+      "term": "comfort and",
+      "category": "uncategorized",
+      "count": 107
+    },
+    {
+      "id": "t0211",
+      "term": "highlights include",
+      "category": "uncategorized",
+      "count": 106
+    },
+    {
+      "id": "t0212",
+      "term": "the highly",
+      "category": "uncategorized",
+      "count": 105
+    },
+    {
+      "id": "t0213",
+      "term": "park ,",
+      "category": "uncategorized",
+      "count": 105
+    },
+    {
+      "id": "t0214",
+      "term": "area .",
+      "category": "uncategorized",
+      "count": 104
+    },
+    {
+      "id": "t0215",
+      "term": "with its",
+      "category": "uncategorized",
+      "count": 104
+    },
+    {
+      "id": "t0216",
+      "term": "move-in ready",
+      "category": "uncategorized",
+      "count": 103
+    },
+    {
+      "id": "t0217",
+      "term": "recessed lighting",
+      "category": "uncategorized",
+      "count": 103
+    },
+    {
+      "id": "t0218",
+      "term": "is the",
+      "category": "uncategorized",
+      "count": 103
+    },
+    {
+      "id": "t0219",
+      "term": "room .",
+      "category": "uncategorized",
+      "count": 103
+    },
+    {
+      "id": "t0220",
+      "term": "home with",
+      "category": "uncategorized",
+      "count": 103
+    },
+    {
+      "id": "t0221",
+      "term": "kitchen is",
+      "category": "uncategorized",
+      "count": 102
+    },
+    {
+      "id": "t0222",
+      "term": "bedroom ,",
+      "category": "uncategorized",
+      "count": 102
+    },
+    {
+      "id": "t0223",
+      "term": "additional highlights",
+      "category": "uncategorized",
+      "count": 101
+    },
+    {
+      "id": "t0224",
+      "term": "restaurants ,",
+      "category": "uncategorized",
+      "count": 99
+    },
+    {
+      "id": "t0225",
+      "term": "views .",
+      "category": "uncategorized",
+      "count": 99
+    },
+    {
+      "id": "t0226",
+      "term": "guests ,",
+      "category": "uncategorized",
+      "count": 99
+    },
+    {
+      "id": "t0227",
+      "term": "a bright",
+      "category": "uncategorized",
+      "count": 98
+    },
+    {
+      "id": "t0228",
+      "term": ". conveniently",
+      "category": "uncategorized",
+      "count": 98
+    },
+    {
+      "id": "t0229",
+      "term": "whether you",
+      "category": "uncategorized",
+      "count": 98
+    },
+    {
+      "id": "t0230",
+      "term": "step outside",
+      "category": "uncategorized",
+      "count": 98
+    },
+    {
+      "id": "t0231",
+      "term": "and inviting",
+      "category": "uncategorized",
+      "count": 97
+    },
+    {
+      "id": "t0232",
+      "term": "with natural",
+      "category": "uncategorized",
+      "count": 97
+    },
+    {
+      "id": "t0233",
+      "term": "upstairs ,",
+      "category": "uncategorized",
+      "count": 97
+    },
+    {
+      "id": "t0234",
+      "term": "a new",
+      "category": "uncategorized",
+      "count": 96
+    },
+    {
+      "id": "t0235",
+      "term": "for guests",
+      "category": "uncategorized",
+      "count": 96
+    },
+    {
+      "id": "t0236",
+      "term": "granite countertops",
+      "category": "uncategorized",
+      "count": 96
+    },
+    {
+      "id": "t0237",
+      "term": "system ,",
+      "category": "uncategorized",
+      "count": 96
+    }
+  ]
+}
