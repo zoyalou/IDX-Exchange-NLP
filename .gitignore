@@ -1,3 +1,4 @@
+data/raw/*.sql
 venv/
 __pycache__/
 *.pyc
